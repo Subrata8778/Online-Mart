@@ -1,0 +1,22 @@
+ 
+OnlineMart
+Jl. Raya Kalirungkut Surabaya
+------------------------------------------------------------
+Nama Barang               JUM   HARGA         SUBTOTAL  
+coki-coki                   3   Rp2.000       Rp6.000            
+bolpen                      2   Rp20.000      Rp40.000           
+samyang                     2   Rp10.000      Rp20.000           
+coki-coki                   2   Rp2.000       Rp4.000            
+coki-coki                   3   Rp2.000       Rp6.000            
+Soju                        5   Rp50.000      Rp250.000          
+coki-coki                   4   Rp2.000       Rp8.000            
+coki-coki                   2   Rp2.000       Rp4.000            
+coki-coki                   9   Rp2.000       Rp18.000           
+------------------------------------------------------------
+TOTAL = Rp356.000 
+DISKON = Rp0       
+ONGKOS KIRIM = Rp105.000 
+TOTAL BAYAR = Rp461.000 
+------------------------------------------------------------
+Terima Kasih!
+------------------------------------------------------------
